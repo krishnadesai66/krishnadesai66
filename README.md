@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krishnadesai66
-- 👀 I’m interested in data science and analytics
+- 👀 I’m interested in data science and analytics, however I am exploring a career in SWE
 - 🌱 I’m currently learning Python and SQL 
 
 
