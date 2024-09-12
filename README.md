@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @krishnadesai66
-- 👀 I’m interested in data science and analytics, however, I am exploring a career in SWE and PM!
+# Hi there, I'm Krishna 👋
+
+## About Me
+
+- 🔭 I’m currently working on updating my portfolio!
+- 🌱 I’m currently learning more about sentiment analysis.
+
+
+## My GitHub Contributions (I;m working on it ... )
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnadesai66&show_icons=true&theme=radical)
+
+## Languages and Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadesai66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<!---
-krishnadesai66/krishnadesai66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
