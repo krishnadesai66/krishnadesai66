@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about sentiment analysis.
 
 
-## My GitHub Contributions (I;m working on it ... )
+## My GitHub Contributions (I'm working on it ... )
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnadesai66&show_icons=true&theme=radical)
 
